@@ -1,8 +1,8 @@
 # CiscoPacketTracer Oppgaver
 
-## Local folder: 
+## Recommended Local folder: 
 
-### C:\Users\gunsto\CiscoPacketTracer
+### C:\CiscoPacketTracer
 
 ## DHCP_and_DNS.pkt
 Diagnostics: 
