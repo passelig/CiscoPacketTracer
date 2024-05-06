@@ -4,7 +4,7 @@
 
 ### C:\CiscoPacketTracer
 
-## DHCP_and_DNS.pkt
+## DHCP_and_DNS.pkt solution:
 Diagnostics: 
 Lsia can not ping any computers on the network
 
