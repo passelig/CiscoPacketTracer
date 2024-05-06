@@ -25,7 +25,7 @@ Fix:
 2. Legg til "deny" regel med Johny sin IP
 3. Legg til "allow" regel med 10.1.1.0 nettverket
 
-![](images/irewall.png)
+![](images/firewall.png)
 
 test
 xgch
