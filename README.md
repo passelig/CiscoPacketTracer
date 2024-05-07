@@ -27,8 +27,16 @@ Fix:
 
 ![](images/firewall.png)
 
-test
-xgch
+## DenyJohnyAccessToNyhet.com.pkt solution:
+
+Oppgave: 
+Johny har tilgang til Nyhet.com, men skal ikke ha det. De andre datamaskinene på nettverket skal fortsatt ha tilgang etter at Johny har blitt nektet tilgang. 
+
+Fix:
+
+1. Aktiver firewall på Server.
+2. Legg til "deny" regel med Johny sin IP
+3. Legg til "allow" regel med 10.1.1.0 nettverket
 
 
 
